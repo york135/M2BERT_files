@@ -1,9 +1,3 @@
-# M2BERT_files
-
-Pretrained model and processed data for M2BERT.
-
-I wanted to upload them to zenodo but zenodo is extremely slow so I choose to use git lfs. Hope that works.
-
-**Usage**
-
-- For datasets, unzip zip files, put them to Data/
+version https://git-lfs.github.com/spec/v1
+oid sha256:363b8f8d3caa7de07536d9bb1fe09e8c162b214433ad6a5217c68d81d918a4f9
+size 418
